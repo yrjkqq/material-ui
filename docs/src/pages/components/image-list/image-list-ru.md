@@ -2,8 +2,7 @@
 title: Сеть изображений, компонент React
 components: ImageList, ImageListItem, ImageListItemBar
 materialDesign: https://material.io/components/image-lists
-githubLabel:
-  component: ImageList
+githubLabel: 'component: ImageList'
 ---
 
 # Сеть изображений
