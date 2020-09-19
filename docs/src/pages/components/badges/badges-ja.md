@@ -1,8 +1,7 @@
 ---
 title: バッジReactコンポーネント
 components: Badge
-githubLabel:
-  component: Badge
+githubLabel: 'component: Badge'
 ---
 
 # Badge
