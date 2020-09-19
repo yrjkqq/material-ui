@@ -1,8 +1,7 @@
 ---
 title: Компонент Alert
 components: Alert, AlertTitle
-githubLabel:
-  component: Alert
+githubLabel: 'component: Alert'
 packageName: '@material-ui/lab'
 waiAria: 'https://www.w3.org/TR/wai-aria-practices/#alert'
 ---
