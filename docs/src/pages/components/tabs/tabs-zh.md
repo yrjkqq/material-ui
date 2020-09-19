@@ -1,8 +1,7 @@
 ---
 title: React 选项卡组件
 components: Tabs, Tab, TabScrollButton, TabContext, TabList, TabPanel
-githubLabel:
-  component: Tabs 选项卡
+githubLabel: 'component: Tabs'
 materialDesign: https://material.io/components/tabs
 waiAria: 'https://www.w3.org/TR/wai-aria-practices/#tabpanel'
 ---
