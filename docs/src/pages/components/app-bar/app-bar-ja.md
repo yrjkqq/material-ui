@@ -1,8 +1,7 @@
 ---
 title: App Bar コンポーネント
 components: AppBar, Toolbar, Menu
-githubLabel:
-  component: サイド検索バー
+githubLabel: 'component: AppBar'
 materialDesign: https://material.io/components/app-bars-top
 ---
 
