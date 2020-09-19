@@ -1,12 +1,11 @@
 ---
 title: React 表格组件
 components: Table, TableBody, TableCell, TableContainer, TableFooter, TableHead, TablePagination, TableRow, TableSortLabel
-githubLabel:
-  component: Table
+githubLabel: 'component: Table'
 materialDesign: https://material.io/components/data-tables
 ---
 
-# Table
+# Table 表格
 
 <p class="description">表格展示数据组。 它们是完全可以自定义的。</p>
 
