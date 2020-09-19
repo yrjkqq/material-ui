@@ -2,8 +2,7 @@
 title: Componente React para Lista de Grade
 components: ImageList, ImageListItem, ImageListItemBar
 materialDesign: https://material.io/components/image-lists
-githubLabel:
-  component: ImageList
+githubLabel: 'component: ImageList'
 ---
 
 # Lista de Grade
