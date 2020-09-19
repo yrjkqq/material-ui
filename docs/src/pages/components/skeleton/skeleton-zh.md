@@ -1,12 +1,11 @@
 ---
 title: React 骨架屏组件
 components: Skeleton
-githubLabel:
-  component: Skeleton
+githubLabel: 'component: Skeleton'
 packageName: '@material-ui/lab'
 ---
 
-# Skeleton
+# Skeleton 骨架屏
 
 <p class="description">在数据完整加载之前将您的内容显示为一个占位的预览，这样可以减少由加载时间造成的困扰。</p>
 
