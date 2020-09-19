@@ -1,8 +1,7 @@
 ---
 title: Текстовое Поле, компонент React
 components: FilledInput, FormControl, FormHelperText, Input, InputAdornment, InputBase, InputLabel, OutlinedInput, TextField
-githubLabel:
-  component: TextField
+githubLabel: 'component: TextField'
 materialDesign: https://material.io/components/text-fields
 ---
 
