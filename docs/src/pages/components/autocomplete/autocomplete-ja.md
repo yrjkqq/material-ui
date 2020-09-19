@@ -1,8 +1,7 @@
 ---
 title: オートコンプリートReactコンポーネント
 components: TextField, Popper, Autocomplete
-githubLabel:
-  component: Autocomplete
+githubLabel: 'component: Autocomplete'
 waiAria: 'https://www.w3.org/TR/wai-aria-practices/#combobox'
 packageName: '@material-ui/lab'
 ---
