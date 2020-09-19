@@ -1,4 +1,4 @@
-# 文字排版
+# 文字铸排
 
 <p class="description">用于控制对齐（alignment），封装（wrapping），以及字体权重（weight）等等的常用文本实用辅助工具的文档和示例。</p>
 
