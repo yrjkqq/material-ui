@@ -2,8 +2,7 @@
 title: Composant React Grid List
 components: ImageList, ImageListItem, ImageListItemBar
 materialDesign: https://material.io/components/image-lists
-githubLabel:
-  component: ImageList
+githubLabel: 'component: ImageList'
 ---
 
 # Grid list
