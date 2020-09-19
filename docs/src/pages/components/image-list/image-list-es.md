@@ -2,8 +2,7 @@
 title: Componente React para Lista cuadriculada
 components: ImageList, ImageListItem, ImageListItemBar
 materialDesign: https://material.io/components/image-lists
-githubLabel:
-  component: ImageList
+githubLabel: 'component: ImageList'
 ---
 
 # Lista cuadriculada
