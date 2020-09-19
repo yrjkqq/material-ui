@@ -1,8 +1,7 @@
 ---
 title: タイポグラフィ
 components: タイポグラフィ
-githubLabel:
-  component: タイポグラフィ
+githubLabel: 'component: Typography'
 materialDesign: https://material.io/design/typography/the-type-system.html
 ---
 
