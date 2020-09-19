@@ -1,8 +1,7 @@
 ---
 title: Componente de React Table
 components: Table, TableBody, TableCell, TableContainer, TableFooter, TableHead, TablePagination, TableRow, TableSortLabel
-githubLabel:
-  component: Table (Tabla)
+githubLabel: 'component: Table'
 materialDesign: https://material.io/components/data-tables
 ---
 
