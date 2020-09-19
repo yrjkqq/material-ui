@@ -1,13 +1,12 @@
 ---
 title: React 消息条组件
 components: Snackbar, SnackbarContent
-githubLabel:
-  component: Snackbar（消息条）
+githubLabel: 'component: Snackbar'
 materialDesign: https://material.io/components/snackbars
 waiAria: 'https://www.w3.org/TR/wai-aria-1.1/#alert'
 ---
 
-# Snackbar（消息条）
+# Snackbar
 
 <p class="description">消息条组件提供了关于应用流程的简短信息。 该组件也被称为 toast。</p>
 
