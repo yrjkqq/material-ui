@@ -1,8 +1,7 @@
 ---
 title: Componente React para Botões de ação flutuante
 components: Fab
-githubLabel:
-  component: Fab
+githubLabel: 'component: Fab'
 materialDesign: https://material.io/components/buttons-floating-action-button
 ---
 
