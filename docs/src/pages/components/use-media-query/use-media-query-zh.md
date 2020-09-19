@@ -49,7 +49,7 @@ function MyComponent() {
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 
 function MyComponent() {
-  const matches = useMediaQuery(theme => theme.breakpoints.up('sm'));
+  const matches = useMediaQuery((theme) => theme.breakpoints.up('sm'));
 
   return <span>{`theme.breakpoints.up('sm') matches: ${matches}`}</span>;
 }
@@ -73,8 +73,10 @@ function MyComponent() {
 import mediaQuery from 'css-mediaquery';
 
 function createMatchMedia(width) {
-  return query => ({
-    matches: mediaQuery.match(query, { width }),
+  return (query) => ({
+    matches: mediaQuery.match(query, {
+      width,
+    }),
     addListener: () => {},
     removeListener: () => {},
   });
