@@ -2,8 +2,7 @@
 title: Componente React para Caixa de Seleção
 components: Checkbox, FormControl, FormGroup, FormLabel, FormControlLabel
 materialDesign: 'https://material.io/components/selection-controls#checkboxes'
-githubLabel:
-  component: Caixa de seleção
+githubLabel: 'component: Checkbox'
 waiAria: 'https://www.w3.org/TR/wai-aria-practices/#checkbox'
 ---
 
