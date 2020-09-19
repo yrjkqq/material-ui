@@ -1,8 +1,7 @@
 ---
 title: React 选择器组件
 components: Select, NativeSelect
-githubLabel:
-  component: 选择属性
+githubLabel: 'component: Select'
 ---
 
 # 选择属性
