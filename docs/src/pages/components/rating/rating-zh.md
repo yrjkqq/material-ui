@@ -1,13 +1,12 @@
 ---
 title: React 评分组件
 components: Rating
-githubLabel:
-  component: Rating
+githubLabel: 'component: Rating'
 waiAria: 'https://www.w3.org/WAI/tutorials/forms/custom-controls/#a-star-rating'
 packageName: '@material-ui/lab'
 ---
 
-# Rating
+# Rating 评分
 
 <p class="description">评分组件带我们深入了解他人对产品的意见和体验。 用户还可以对自己购买的产品进行评价。</p>
 
