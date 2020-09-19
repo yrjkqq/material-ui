@@ -1,8 +1,7 @@
 ---
 title: Listコンポーネント
 components: Collapse, Divider, List, ListItem, ListItemAvatar, ListItemIcon, ListItemSecondaryAction, ListItemText, ListSubheader
-githubLabel:
-  component: List (リスト)
+githubLabel: 'component: List'
 materialDesign: https://material.io/components/lists
 ---
 
