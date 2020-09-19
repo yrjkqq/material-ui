@@ -1,8 +1,7 @@
 ---
 title: Auswahl React-Komponente
 components: Select, NativeSelect
-githubLabel:
-  component: Selects (auswähler)
+githubLabel: 'component: Select'
 ---
 
 # Selects (auswähler)
