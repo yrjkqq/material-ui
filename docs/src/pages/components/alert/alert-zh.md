@@ -1,8 +1,7 @@
 ---
 title: React 警告提示组件
 components: Alert, AlertTitle
-githubLabel:
-  component: Alert 警告提示
+githubLabel: 'component: Alert'
 packageName: '@material-ui/lab'
 waiAria: 'https://www.w3.org/TR/wai-aria-practices/#alert'
 ---
