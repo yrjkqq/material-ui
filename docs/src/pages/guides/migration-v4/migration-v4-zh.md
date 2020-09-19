@@ -198,7 +198,7 @@ const theme = createMuitheme({
   }}>
   ```
 
-### BottomNavigation
+### BottomNavigation（底部导航）
 
 - TypeScript：`onChange` 中的 `event` 的类型不再是 `React.ChangeEvent`，而是`React.SyntheticEvent`。
 
@@ -218,7 +218,7 @@ const theme = createMuitheme({
   +<Button />
   ```
 
-### CircularProgress
+### CircularProgress（进度环）
 
 - `static` 变量已合并到 `determinate` 变量中，后者将采用前者的外观。 这是因为删除的这个变量很少有用。 这属于 Material Design 的例外情况，并且它在规范中已被删除。
 
@@ -519,7 +519,7 @@ const theme = createMuitheme({
   +<Slider onChange={(event: React.SyntheticEvent, value: unknown) => {}} />
   ```
 
-### Snackbar（消息条）
+### Snackbar
 
 - 现在在大屏幕上的消息条通知会在左下角显示。 这更符合 Gmail、Google Keep、material.io 等应用的行为。 你可以用以下方法恢复到以前的行为：
 
@@ -642,7 +642,7 @@ const theme = createMuitheme({
   +<TextareAutosize minRows={1}>
   ```
 
-### 文字排版
+### 文字铸排
 
 - 为了避免 [System](https://material-ui.com/system/basics/) 功能重复，我们替换了 `srOnly` 属性。
 
