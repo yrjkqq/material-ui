@@ -77,13 +77,13 @@ yarn add @material-ui/core
 
 ### 测试
 
-For testing purposes, each icon exposed from `@material-ui/icons` has a `data-testid` attribute with the name of the icon. 就像这样：
+出于测试目的，每个从 `@material-ui/icons` 暴露的图标都有一个 `data-testid` 属性，这其中包含了图标的名称。 就像这样：
 
 ```jsx
 import DeleteIcon from '@material-ui/icons/Delete';
 ```
 
-has the following attribute once mounted:
+一旦挂载后，它就具有以下属性：
 
 ```html
 <svg data-testid="DeleteIcon"></svg>
@@ -239,7 +239,7 @@ const theme = createMuiTheme({
 
 ### 语义 SVG 图标
 
-如果您的图标带有语义，您只需要包含 `titleAccess =“含义”` 这个属性。 我们添加了 `role="img"` 属性和 `<title>` 元素，这样一来您的图标就满足无障碍设计的需求了。
+如果你的图标具有语义意义，你应该添加一个 `titleAccess` 属性并提供语义值。 我们添加了 `role="img"` 属性和 `<title>` 元素，这样一来您的图标就满足无障碍设计的需求了。
 
 对于那些可聚焦的交互式元素，譬如与一个图标按钮一起使用时，您可以使用 `aria-label` 属性：
 
