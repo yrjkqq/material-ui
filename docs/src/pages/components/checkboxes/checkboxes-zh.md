@@ -2,8 +2,7 @@
 title: React 多选框组件
 components: Checkbox, FormControl, FormGroup, FormLabel, FormControlLabel
 materialDesign: 'https://material.io/components/selection-controls#checkboxes'
-githubLabel:
-  component: Checkbox 选择框
+githubLabel: 'component: Checkbox'
 waiAria: 'https://www.w3.org/TR/wai-aria-practices/#checkbox'
 ---
 
@@ -62,6 +61,8 @@ waiAria: 'https://www.w3.org/TR/wai-aria-practices/#checkbox'
 ```jsx
 <Checkbox
   value="checkedA"
-  inputProps={{ 'aria-label': 'Checkbox A' }}
+  inputProps={{
+    'aria-label': 'Checkbox A',
+  }}
 />
 ```
