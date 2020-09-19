@@ -1,12 +1,11 @@
 ---
 title: React 模态框组件
 components: Modal
-githubLabel:
-  component: Modal
+githubLabel: 'component: Modal'
 waiAria: 'https://www.w3.org/TR/wai-aria-practices/#dialog_modal'
 ---
 
-# Modal
+# Modal 模态框组件
 
 <p class="description">模态框组件可以用来快速创建对话框、弹出窗口，灯箱等任何你所需的组件。</p>
 
