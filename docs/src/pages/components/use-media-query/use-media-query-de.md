@@ -1,7 +1,6 @@
 ---
 title: Medienanfragen in React für Responsive Design
-githubLabel:
-  hook: useMediaQuery
+githubLabel: 'hook: useMediaQuery'
 ---
 
 # useMediaQuery
