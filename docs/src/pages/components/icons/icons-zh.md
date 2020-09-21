@@ -1,8 +1,7 @@
 ---
 title: React 图标组件
 components: Icon, SvgIcon
-githubLabel:
-  components: SvgIcon（Svg 图标）
+githubLabel: 'components: SvgIcon'
 materialDesign: https://material.io/design/iconography/system-icons.html
 ---
 
