@@ -1,8 +1,7 @@
 ---
 title: Componente React para Ícones
 components: Icon, SvgIcon
-githubLabel:
-  components: SvgIcon
+githubLabel: 'components: SvgIcon'
 materialDesign: https://material.io/design/iconography/system-icons.html
 ---
 
